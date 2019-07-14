@@ -1,4 +1,4 @@
-# first_app
+# Waifu_Collection
 
 A new Flutter project.
 
